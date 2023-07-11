@@ -1,1 +1,1 @@
-# TSS Next.js Blog
+# nextjs-bloggging-platform
